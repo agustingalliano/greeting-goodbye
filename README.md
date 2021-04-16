@@ -3,7 +3,7 @@
 Esta aplicacion contiene: MainActivity, SecondActivity, ThirdActivity.
 
 MainActivity: Contiene un EditText donde colocaremos nuestro nombre de usuario. 
-Luego tiene un metodo onClick en el boton y lo que hace es ir hacia el segundo activity pasandole como dato el nombre de usuario.
+Luego tiene un metodo onClick en el boton NEXT STEP! y lo que hace es ir hacia el segundo activity pasandole como dato el nombre de usuario.
 
 SecondActivity: 
 Capturamos la informacion recibida desde el MainActivity.
