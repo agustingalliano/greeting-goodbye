@@ -11,6 +11,6 @@ Decidimos que deseamos hacer a traves de un RadioGroup(Saludo o Despedida).
 Inidcamos nuestra edad a traves de un SeekBar, la cual debe ser entre 16 y 60.
 Realizamos un OnClick una vez pulsado el boton GO NEXT! pasandole toda la informacion obtenida en ambos activities a ThirdActivity.
 
-ThirdActivity
+ThirdActivity:
 Capturamos toda la informacion recibida y la mostramos como un saludo o despedida a traves de un toast al presionar el boton PRESS!.
 Luego este boton se esconde y aparece el boton SHARE! para compartir por mail,bluetooh,mensaje, etc.
